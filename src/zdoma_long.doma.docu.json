@@ -1,0 +1,31 @@
+{
+  "formatVersion": "1",
+  "lines": [
+    {
+      "format": "U1",
+      "line": "&DEFINITION&"
+    },
+    {
+      "format": "AS",
+      "line": "hello"
+    },
+    {
+      "format": "AS",
+      "line": "world"
+    },
+    {
+      "format": "AS",
+      "line": "foo"
+    },
+    {
+      "format": "AS"
+    },
+    {
+      "format": "AS"
+    },
+    {
+      "format": "AS",
+      "line": "bar"
+    }
+  ]
+}
